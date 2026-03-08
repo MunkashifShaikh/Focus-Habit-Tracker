@@ -1,0 +1,5 @@
+{
+  "name": "Focus Habit Tracker",
+  "description": "A minimal, Notion-style habit and goal tracker with daily streaks and weekly reviews.",
+  "requestFramePermissions": []
+}
